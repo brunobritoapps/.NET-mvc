@@ -1,0 +1,9 @@
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjetoDotNet.Repositorio.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjetoDotNet.Repositorio.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjectDotNet.Domain.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjectDotNet.Domain.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjectDotNet.RepositoryADO.csprojResolveAssemblyReference.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjectDotNet.RepositoryADO.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjectDotNet.RepositoryADO.csproj.CopyComplete
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjetoDotNet.Repositorio.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjetoDotNet.Repositorio.pdb

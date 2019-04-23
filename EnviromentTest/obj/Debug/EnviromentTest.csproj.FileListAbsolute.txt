@@ -1,0 +1,7 @@
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\bin\Debug\EnviromentTest.exe.config
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\bin\Debug\EnviromentTest.exe
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\bin\Debug\EnviromentTest.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\obj\Debug\EnviromentTest.csprojResolveAssemblyReference.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\obj\Debug\EnviromentTest.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\obj\Debug\EnviromentTest.exe
+C:\Users\bruno\source\repos\StudyDotNetMVC\EnviromentTest\obj\Debug\EnviromentTest.pdb

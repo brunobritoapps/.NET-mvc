@@ -1,0 +1,11 @@
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjectDotNet.Aplication.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjectDotNet.Aplication.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjectDotNet.Domain.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjetoDotNet.Repositorio.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjectDotNet.Domain.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\bin\Debug\ProjetoDotNet.Repositorio.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\obj\Debug\ProjectDotNet.Aplication.csprojResolveAssemblyReference.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\obj\Debug\ProjectDotNet.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\obj\Debug\ProjectDotNet.Aplication.csproj.CopyComplete
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\obj\Debug\ProjectDotNet.Aplication.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjectDotNet.Aplication\obj\Debug\ProjectDotNet.Aplication.pdb

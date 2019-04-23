@@ -1,0 +1,6 @@
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjetoDotNet.Repositorio.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\bin\Debug\ProjetoDotNet.Repositorio.pdb
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjectDotNet.Repository.csprojResolveAssemblyReference.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjectDotNet.Repository.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjetoDotNet.Repositorio.dll
+C:\Users\bruno\source\repos\StudyDotNetMVC\ProjetoDotNet.Repositorio\obj\Debug\ProjetoDotNet.Repositorio.pdb
